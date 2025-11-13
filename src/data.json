@@ -1,0 +1,261 @@
+{
+  "249574536238858241": {
+    "total": 1101,
+    "users": {
+      "247802884303880192": {
+        "name": "RazzJT",
+        "total": 1101
+      }
+    },
+    "ledger": [
+      {
+        "ts": "2025-11-12T18:31:48.996Z",
+        "userId": "247802884303880192",
+        "username": "razzjt",
+        "amount": 10000,
+        "note": ""
+      },
+      {
+        "ts": "2025-11-12T18:31:59.322Z",
+        "userId": "247802884303880192",
+        "username": "razzjt",
+        "amount": 100,
+        "note": ""
+      },
+      {
+        "ts": "2025-11-12T18:37:18.264Z",
+        "userId": "247802884303880192",
+        "username": "razzjt",
+        "amount": 100,
+        "note": ""
+      },
+      {
+        "ts": "2025-11-12T18:41:22.025Z",
+        "userId": "247802884303880192",
+        "username": "razzjt",
+        "amount": 10000,
+        "note": "For polaris"
+      },
+      {
+        "ts": "2025-11-12T18:41:59.776Z",
+        "userId": "247802884303880192",
+        "username": "razzjt",
+        "amount": 10000,
+        "note": "HEy"
+      },
+      {
+        "ts": "2025-11-12T18:43:54.224Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 1000,
+        "note": ""
+      },
+      {
+        "ts": "2025-11-12T18:44:09.203Z",
+        "userId": "247802884303880192",
+        "username": "Aaa",
+        "amount": 1000,
+        "note": ""
+      },
+      {
+        "ts": "2025-11-12T18:46:35.225Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 500,
+        "note": "Hey"
+      },
+      {
+        "ts": "2025-11-12T18:56:34.861Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": -10000,
+        "note": "",
+        "type": "refund"
+      },
+      {
+        "ts": "2025-11-12T19:04:17.583Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -1000,
+        "note": "Hey",
+        "type": "purchase"
+      },
+      {
+        "ts": "2025-11-12T19:05:42.638Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -21700,
+        "note": "Empty",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:08:07.627Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 100000,
+        "note": "have fun",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-12T19:08:32.299Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": -10000,
+        "note": "im poor",
+        "type": "refund"
+      },
+      {
+        "ts": "2025-11-12T19:08:52.704Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -10000,
+        "note": "buh",
+        "type": "purchase"
+      },
+      {
+        "ts": "2025-11-12T19:09:18.474Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -80000,
+        "note": "stuff is broken",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:12:51.280Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": 0,
+        "note": "a",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:13:23.402Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": 0,
+        "note": "aa",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:14:47.284Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 100000,
+        "note": "",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-12T19:14:55.131Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -1,
+        "note": "1",
+        "type": "purchase"
+      },
+      {
+        "ts": "2025-11-12T19:17:29.680Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 1,
+        "note": "hey",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-12T19:17:42.835Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": -1,
+        "note": "",
+        "type": "refund"
+      },
+      {
+        "ts": "2025-11-12T19:17:47.259Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": -1,
+        "note": "a",
+        "type": "refund"
+      },
+      {
+        "ts": "2025-11-12T19:19:51.495Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 1,
+        "note": "Hey",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-12T19:20:06.741Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": -100,
+        "note": "broke",
+        "type": "refund"
+      },
+      {
+        "ts": "2025-11-12T19:20:21.741Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -1000,
+        "note": "polaris",
+        "type": "purchase"
+      },
+      {
+        "ts": "2025-11-12T19:20:44.614Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": -98899,
+        "note": "broky",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:26:05.654Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJT",
+        "amount": 0,
+        "note": "a",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:26:11.576Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 1000,
+        "note": "",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-12T19:29:20.034Z",
+        "adminId": "247802884303880192",
+        "adminName": "RazzJTa",
+        "amount": -1000,
+        "note": "a",
+        "type": "flush"
+      },
+      {
+        "ts": "2025-11-12T19:29:35.498Z",
+        "userId": "247802884303880192",
+        "username": "RazzJTa",
+        "amount": 1000,
+        "note": "",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-13T05:13:35.377Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 1,
+        "note": "",
+        "type": "donation"
+      },
+      {
+        "ts": "2025-11-13T05:20:08.930Z",
+        "userId": "247802884303880192",
+        "username": "RazzJT",
+        "amount": 100,
+        "note": "",
+        "type": "donation"
+      }
+    ]
+  }
+}
